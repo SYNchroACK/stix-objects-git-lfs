@@ -1,0 +1,19 @@
+{
+  "type": "bundle",
+  "id": "bundle--ec93a2b2-a667-40c0-8550-2f9cfe26827c",
+  "objects": [
+    {
+      "id": "extension-definition--dff17fb3-edcb-4f99-ad1b-4b751c95738a",
+      "type": "extension-definition",
+      "spec_version": "2.1",
+      "name": "Extension for Controlled Unclassified Information markings",
+    "description": "This marking extension was created to represent Controlled Unclassified Information (CUI) markings",
+      "created": "2024-01-31T08:28:12.902Z",
+      "modified": "2024-01-31T08:28:12.902Z",
+      "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+      "schema": "https://github.com/oasis-open/cti-stix-common-objects/tree/main/extension-definition-specifications/cui-marking-definition-dff",
+      "version": "1.0.0",
+      "extension_types": [ "property-extension" ]
+    }
+  ]
+}
